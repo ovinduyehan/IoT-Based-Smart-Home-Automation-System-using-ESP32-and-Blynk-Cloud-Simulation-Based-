@@ -1,0 +1,2 @@
+# IoT-Based-Smart-Home-Automation-System-using-ESP32-and-Blynk-Cloud-Simulation-Based-
+Developed a cloud-connected Smart Home Automation System using ESP32 and Blynk IoT platform. The system enables real-time remote control of home appliances such as lights, fans, and electrical loads via a mobile application. The project demonstrates IoT communication, cloud integration, and embedded system control using Wi-Fi.
